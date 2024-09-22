@@ -1,0 +1,20 @@
+RFID (MFRC522)
+
+SDA (SS): Pin 5 (ESP32)
+RST: Pin 22 (ESP32)
+MOSI: Pin 23 (ESP32)
+MISO: Pin 19 (ESP32)
+SCK: Pin 18 (ESP32)
+VCC: 3.3V (ESP32)
+GND: GND (ESP32)
+Servo
+
+Signal: Pin 13 (ESP32)
+VCC: 5V (atau sumber daya servo yang sesuai)
+GND: GND (ESP32)
+OLED (SSD1306)
+
+SDA: Pin 32 (ESP32)
+SCL: Pin 33 (ESP32)
+VCC: 3.3V (ESP32)
+GND: GND (ESP32)
